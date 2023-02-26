@@ -16,7 +16,7 @@
                     </p>
                 </div>
                 <div class="col-lg-12 pt-4 pt-lg-0">
-                    <p class="second px-8">After picking up the basics, I've learned CMS php frameworks such as Drupal and
+                    <p class="px-8">After picking up the basics, I've learned CMS php frameworks such as Drupal and
                         WordPress as well as NodeJS (backend), ReactJS and VueJs (frontend) for my projects with great
                         results. The learning has continued and coding has turned from a hobby into a passion that I want to
                         pursue each and every day. I’m a self-taught developer with a passion for code and what it can add
@@ -24,9 +24,8 @@
                     </p>
                 </div>
                 <div class="col-lg-12">
-                    <p class="third">I'm curently working as a contractor but I'm always looking for permanent
-                        opportunities. About myself, I love hiking, grilling mean food, and watching <strong>The
-                            Arsenal</strong>.
+                    <p>I'm curently working as a contractor but I'm always looking for permanent opportunities. About
+                        myself, I love hiking, grilling mean food, and watching <strong>The Arsenal</strong>.
                     </p>
                 </div>
             </div>

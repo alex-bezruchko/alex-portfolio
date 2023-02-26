@@ -1,7 +1,7 @@
 <template>
     <div class="container">
         <h1 class="page-header">Contact</h1>
-        <ul>
+        <ul class="contact-list">
             <li>
                 <a class="contact" href="https://github.com/alex-bezruchko">
                     <i class="bi bi-github"></i> Github
