@@ -3,7 +3,7 @@
         <h1 class="page-header">Portfolio</h1>
 
         <div class="row">
-            <div class="col col-sm-12 col-lg-4">
+            <div class="col-sm-12 col-lg-4 pb-4">
                 <div id="car1" class="carousel slide" data-bs-ride="car1">
                     <div class="carousel-indicators">
                         <button class="indicators active" type="button" data-bs-target="#car1" data-bs-slide-to="0"
@@ -33,11 +33,14 @@
                         <span class="visually-hidden">Next</span>
                     </button>
                 </div>
-                <p class="project-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod lorem
-                    non
-                    erat tincidunt, id varius arcu malesuada.</p>
+                <p class="project-description">
+                    Basic portfolio for a <a href="http://www.n1cabs.com">custom cabinet maker</a>. Designed
+                    and developed the front-end (public facing and admin sections(CMS)) for the rebuild of the site.
+                    Technologies Used: HTML, Sass, Bootstrap, Google Fonts, Font Awesome, jQuery, AngularJS, MySQL, Laravel
+                    (PHP) framework
+                </p>
             </div>
-            <div class="col col-sm-12 col-lg-4">
+            <div class="col-sm-12 col-lg-4 pb-4">
                 <div id="car2" class="carousel slide" data-bs-ride="car2">
                     <div class="carousel-indicators">
                         <button class="indicators active" type="button" data-bs-target="#car2" data-bs-slide-to="0"
@@ -67,11 +70,14 @@
                         <span class="visually-hidden">Next</span>
                     </button>
                 </div>
-                <p class="project-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod lorem
-                    non
-                    erat tincidunt, id varius arcu malesuada.</p>
+                <p class="project-description">
+                    Clean and light web page for a <a href="http://www.lilitscustomdesigns.com">small
+                        clothing studio</a>. Worked in a team to develop the front-end (public facing and admin sections)
+                    for the rebuild of the site, based on provided designs/mock-ups. Technologies Used: HTML, Sass,
+                    Bootstrap, Google Fonts, Font Awesome, jQuery, MySQL, Laravel (PHP) framework.
+                </p>
             </div>
-            <div class="col col-sm-12 col-lg-4">
+            <div class="col-sm-12 col-lg-4 pb-4">
                 <div id="car3" class="carousel slide" data-bs-ride="car3">
                     <div class="carousel-indicators">
                         <button class="indicators active" type="button" data-bs-target="#car3" data-bs-slide-to="0"
@@ -111,9 +117,11 @@
                         <span class="visually-hidden">Next</span>
                     </button>
                 </div>
-                <p class="project-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod lorem
-                    non
-                    erat tincidunt, id varius arcu malesuada.</p>
+                <p class="project-description">
+                    Wordpress wineblog project - Designs based off a WordPress theme. Developed front-end, utilized custom
+                    pages templates, created custom post carousel module. Technologies Used: WordPress, CSS, Bootstrap,
+                    Google Fonts, Google Maps, Api, Font Awesome, jQuery, MySQL
+                </p>
             </div>
         </div>
 

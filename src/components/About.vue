@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <h1 class="page-header">About Me...</h1>
+        <h1 class="page-header">About Me</h1>
         <div class="row">
             <div class="col-md-4">
                 <img class="img-responsive imgshadow" id="mountain-jpg" src="./../img/mountain.jpg" alt="mountain-pic"
@@ -15,7 +15,6 @@
                         much fun as well as a rewarding experience.
                     </p>
                 </div>
-
                 <div class="col-lg-12 pt-4 pt-lg-0">
                     <p class="second px-8">After picking up the basics, I've learned CMS php frameworks such as Drupal and
                         WordPress as well as NodeJS (backend), ReactJS and VueJs (frontend) for my projects with great
@@ -27,8 +26,8 @@
                 <div class="col-lg-12">
                     <p class="third">I'm curently working as a contractor but I'm always looking for permanent
                         opportunities. About myself, I love hiking, grilling mean food, and watching <strong>The
-                            Arsenal</strong>.</p>
-
+                            Arsenal</strong>.
+                    </p>
                 </div>
             </div>
         </div>

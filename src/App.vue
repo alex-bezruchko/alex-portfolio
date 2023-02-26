@@ -1,8 +1,8 @@
 <template>
   <header>
     <nav class="navbar navbar-expand-lg navbar-light">
-      <div class="container d-flex justify-between">
-        <div>
+      <div class="container">
+        <div id="nav" class="d-flex justify-content-between">
           <a class="navbar-brand" href="#">
             <img class="" id="about-jpg" src="./img/about.jpg" alt="about-pic">
             Alex Bezruchko</a>
