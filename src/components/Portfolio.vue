@@ -124,7 +124,11 @@
                 </p>
             </div>
         </div>
-
+        <div class="row">
+            <div class="col-sm-12">
+                <h4 class="text-uppercase fw-bold">More available upon request</h4>
+            </div>
+        </div>
     </div>
 </template>
 

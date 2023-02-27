@@ -4,6 +4,10 @@ body {
   font-family: 'Manrope', sans-serif;
 }
 
+main {
+  margin-bottom: 120px;
+}
+
 h1,
 h2,
 h3 {
