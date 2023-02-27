@@ -30,7 +30,8 @@ nav a,
   transition: 0.4s;
 }
 
-nav a:hover {
+nav a:hover,
+.link {
   color: #21b2cc;
 }
 

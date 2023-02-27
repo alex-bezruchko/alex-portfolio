@@ -14,15 +14,17 @@
                             aria-label="Slide 3"></button>
                     </div>
                     <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <img src="./../img/portfolio/lilit/lilit1.jpg" class="d-block w-100" alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="./../img/portfolio/lilit/lilit2.jpg" class="d-block w-100" alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="./../img/portfolio/lilit/lilit3.jpg" class="d-block w-100" alt="...">
-                        </div>
+                        <a class="link" target="_blank" href="http://lilitcustomdesigns.com">
+                            <div class="carousel-item active">
+                                <img src="./../img/portfolio/lilit/lilit1.jpg" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="./../img/portfolio/lilit/lilit2.jpg" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="./../img/portfolio/lilit/lilit3.jpg" class="d-block w-100" alt="...">
+                            </div>
+                        </a>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#car1" data-bs-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -34,10 +36,10 @@
                     </button>
                 </div>
                 <p class="project-description">
-                    Basic portfolio for a <a href="http://www.n1cabs.com">custom cabinet maker</a>. Designed
-                    and developed the front-end (public facing and admin sections(CMS)) for the rebuild of the site.
-                    Technologies Used: HTML, Sass, Bootstrap, Google Fonts, Font Awesome, jQuery, AngularJS, MySQL, Laravel
-                    (PHP) framework
+                    Clean and light web page for a small clothing studio. Worked in a team to develop the front-end (public
+                    facing and admin sections)
+                    for the rebuild of the site, based on provided designs/mock-ups. Technologies Used: HTML, Sass,
+                    Bootstrap, Google Fonts, Font Awesome, jQuery, MySQL, Laravel (PHP) framework.
                 </p>
             </div>
             <div class="col-sm-12 col-lg-4 pb-4">
@@ -51,15 +53,17 @@
                             aria-label="Slide 3"></button>
                     </div>
                     <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <img src="./../img/portfolio/raffi/raffi1.jpg" class="d-block w-100" alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="./../img/portfolio/raffi/raffi2.jpg" class="d-block w-100" alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="./../img/portfolio/raffi/raffi3.jpg" class="d-block w-100" alt="...">
-                        </div>
+                        <a class="link" target="_blank" href="http://www.n1cabs.com">
+                            <div class="carousel-item active">
+                                <img src="./../img/portfolio/raffi/raffi1.jpg" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="./../img/portfolio/raffi/raffi2.jpg" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="./../img/portfolio/raffi/raffi3.jpg" class="d-block w-100" alt="...">
+                            </div>
+                        </a>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#car2" data-bs-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -71,10 +75,10 @@
                     </button>
                 </div>
                 <p class="project-description">
-                    Clean and light web page for a <a href="http://www.lilitscustomdesigns.com">small
-                        clothing studio</a>. Worked in a team to develop the front-end (public facing and admin sections)
-                    for the rebuild of the site, based on provided designs/mock-ups. Technologies Used: HTML, Sass,
-                    Bootstrap, Google Fonts, Font Awesome, jQuery, MySQL, Laravel (PHP) framework.
+                    Basic portfolio for a custom cabinet maker. Designed and developed the front-end (public facing and
+                    admin sections(CMS)) for the rebuild of the site.
+                    Technologies Used: HTML, Sass, Bootstrap, Google Fonts, Font Awesome, jQuery, AngularJS, MySQL, Laravel
+                    (PHP) framework
                 </p>
             </div>
             <div class="col-sm-12 col-lg-4 pb-4">
