@@ -39,7 +39,7 @@
                     Clean and light web page for a small clothing studio. Worked in a team to develop the front-end (public
                     facing and admin sections)
                     for the rebuild of the site, based on provided designs/mock-ups. Technologies Used: HTML, Sass,
-                    Bootstrap, Google Fonts, Font Awesome, jQuery, MySQL, Laravel (PHP) framework.
+                    Bootstrap, Google Fonts, Font Awesome, MySQL, Laravel (PHP) framework.
                 </p>
             </div>
             <div class="col-sm-12 col-lg-4 pb-4">
@@ -76,8 +76,8 @@
                 </div>
                 <p class="project-description">
                     Basic portfolio for a custom cabinet maker. Designed and developed the front-end (public facing and
-                    admin sections(CMS)) for the rebuild of the site.
-                    Technologies Used: HTML, Sass, Bootstrap, Google Fonts, Font Awesome, jQuery, AngularJS, MySQL, Laravel
+                    admin sections(CMS) for the rebuild of the site.
+                    Technologies Used: HTML, Sass, Bootstrap, Google Fonts, Font Awesome, AngularJS, MySQL, Laravel
                     (PHP) framework
                 </p>
             </div>
@@ -124,7 +124,7 @@
                 <p class="project-description">
                     Wordpress wineblog project - Designs based off a WordPress theme. Developed front-end, utilized custom
                     pages templates, created custom post carousel module. Technologies Used: WordPress, CSS, Bootstrap,
-                    Google Fonts, Google Maps, Api, Font Awesome, jQuery, MySQL
+                    Google Fonts, Google Maps, Api, Font Awesome, MySQL
                 </p>
             </div>
         </div>
