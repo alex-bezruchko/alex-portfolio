@@ -8,7 +8,7 @@
             </div>
             <div class="col-md-8">
                 <div class="col-lg-12">
-                    <p>A little over two years ago, I wrote my first line of code and was
+                    <p>A little over five years ago, I wrote my first line of code and was
                         hooked into the challenging but cool world of programming. At the time, I was a health insurance
                         agent which while was financially rewarding career was not the most exciting of challenges. I worked
                         through some courses on Codecademy, Team TreeHouse, Udemy among other and began to imagine coding as
