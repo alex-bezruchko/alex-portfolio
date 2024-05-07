@@ -132,3 +132,33 @@ i.bi {
     padding-top: 0px;
   }
 }
+.div-img-responsive {
+  min-height: 427.15px;
+  height: 427.15px;
+  max-height: 427.15px;
+}
+@media (max-width: 800px) {
+  .div-img-responsive {
+    min-height: 224px;
+    max-height: 224px;
+    height: 224px;
+    /* min-width: 224px; */
+    /* max-width: 224px; */
+  }
+}
+@media (min-width: 801px) and (max-width: 989px) {
+
+  .div-img-responsive {
+    min-height: 427.15px;
+    max-height: 427.15px;
+    height: 427.15px;
+
+    /* min-width: 224px; */
+    /* max-width: 224px; */
+  }
+}
+.img-responsive {
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
